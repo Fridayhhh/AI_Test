@@ -22,4 +22,5 @@
 3. 运行：`python ai_test.py`
 
 ## 运行结果
-（把之前跑通的截图贴在这里）
+<img width="720" height="767" alt="image" src="https://github.com/user-attachments/assets/dba65b04-e63c-4982-b4cc-b6fb6b619f1f" />
+
