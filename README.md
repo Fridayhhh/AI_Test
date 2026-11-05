@@ -20,3 +20,5 @@
 <img width="720" height="767" alt="image" src="https://github.com/user-attachments/assets/dba65b04-e63c-4982-b4cc-b6fb6b619f1f" />
 
 失败例子是因为AI依据REST规范预期返回404，但jsonplaceholder实际返回了200。当时为了解决这个认知偏差，我尝试去修改Prompt，但发现模型依然会基于规则脑补。所以我深刻体会到，AI 自动化测试，必须配合人工审查。
+jsonplaceholder公共接口：/posts：100条、/comments：500条、/users：10个
+
